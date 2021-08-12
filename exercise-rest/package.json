@@ -1,0 +1,18 @@
+{
+  "name": "exercise-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercise_controller.mjs",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node exercise_controller.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
